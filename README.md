@@ -1,4 +1,4 @@
-# Tic Tac Toe Game Application
+# Tic Tac Toe Game App
 
 The repository contains a Tic Tac Toe Game application along with what you need to get started with GitHub Actions and the GitHub Package Registry. 
 
